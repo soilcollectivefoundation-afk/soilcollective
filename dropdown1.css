@@ -749,7 +749,7 @@ ul.menu li ul {
     width: 100%;
     height: 140px;
 
-    background-image: url("assets/pattern_gamosa.png");
+    background-image: url("assets/pattern_gamosa.webp");
     background-repeat: repeat-x;
     background-position: left bottom;
     background-size: auto 140px;
@@ -763,8 +763,8 @@ ul.menu li ul {
     height: 140px;   /* 2 × 80px */
 
     background-image:
-        url("assets/pattern_gamosa_black.png"),
-        url("assets/pattern_gamosa_black.png");
+        url("assets/pattern_gamosa_black.webp"),
+        url("assets/pattern_gamosa_black.webp");
 
     background-repeat:
         repeat-x,
