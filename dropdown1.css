@@ -747,12 +747,12 @@ ul.menu li ul {
     position: relative;
     z-index: 1;
     width: 100%;
-    height: 180px;
+    height: 170px;
 
     background-image: url("assets/pattern_gamosa.webp");
     background-repeat: repeat-x;
     background-position: left bottom;
-    background-size: auto 180px;
+    background-size: auto 170px;
 
     margin-top: 3rem;
 }
@@ -760,7 +760,7 @@ ul.menu li ul {
 .top-pattern {
     margin-top: 0px;
     width: 100%;
-    height: 180px;   /* 2 × 80px */
+    height: 160px;   /* 2 × 80px */
 
     background-image:
         url("assets/pattern_gamosa_black.webp"),
@@ -771,12 +771,12 @@ ul.menu li ul {
         repeat-x;
 
     background-size:
-        auto 90px,
-        auto 90px;
+        auto 80px,
+        auto 80px;
 
     background-position:
         left top,
-        left 90px;
+        left 80px;
 }
 
 @media (max-width: 768px) {
