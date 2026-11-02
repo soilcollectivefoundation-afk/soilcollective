@@ -789,7 +789,7 @@ ul.menu li ul {
 
 .logo-image2 {
   width: 80%;        /* scales relative to its container */
-  max-width: 450px;  /* prevents it from being too large on big screens */
+  max-width: 350px;  /* prevents it from being too large on big screens */
   height: auto;      /* maintains aspect ratio */
   display: block;    /* removes inline spacing */
   margin: 0 auto;    /* centers the logo */
